@@ -1,0 +1,6 @@
+# ArcGIS Pro
+*.gdb/
+*.gdb-journal
+*.lock
+*.aprx.default
+Index/
