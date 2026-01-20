@@ -6,8 +6,6 @@ A portfolio project demonstrating a full GIS workflow, from data acquisition and
 
 ## Final Map
 
-*Insert your exported map image here! On GitHub, you can just drag and drop the image into the text editor.*
-
 ![Ottawa Accessibility Map](https://github.com/jeelsgit/Ottawa-Accessibility-Analysis/blob/main/exports/Ottawa_Accessibility_Map.jpg) 
 
 ---
